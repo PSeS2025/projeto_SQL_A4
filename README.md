@@ -5,8 +5,8 @@ biblioteca-sql/
 ├── README.md
 ├── sql/
 │   ├── 01_create_tables.sql
-│   ├── 02_insert_data.sql
-│   ├── 03_select_queries.sql
+│   ├── 02_insert.sql
+│   ├── 03_select.sql
 │   ├── 04_update_delete.sql
 └── 
 
