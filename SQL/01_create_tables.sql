@@ -1,3 +1,16 @@
+-- ===========================================
+-- ARQUIVO SQL COMPLETO PARA IMPORTAÇÃO NO SQLDBM
+-- Inclui:
+-- 1. Criação das tabelas (Modelo Lógico)
+-- 2. Inserts para povoamento
+-- 3. Consultas SELECT
+-- 4. Updates e Deletes
+-- ===========================================
+
+-- =============================
+-- 1. CREATE TABLES
+-- =============================
+
 DROP TABLE IF EXISTS obra_autor;
 DROP TABLE IF EXISTS multa;
 DROP TABLE IF EXISTS reserva;
